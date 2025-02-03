@@ -39,7 +39,7 @@ public class PlanetInfo{
         /* extra challenge code
          * detects incorrect input
          * of planet name
-        */
+        
         boolean found = false;
 
         do{
